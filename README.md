@@ -2,10 +2,9 @@
 Took the reviews from the mcd store across USA to understand the sentiments of the customers posting their reviews and positioning the product in the menu
 Word Cloud Obtained after second iteration from python 
 
-
+![image](https://github.com/user-attachments/assets/33106377-6b53-4200-8ef3-09ef7cc5eb2e)
 
  
-
 
 Table deriving the sentiment, interpretation and the insights from the Word Cloud.
 
@@ -123,4 +122,4 @@ Conclusion: Key Focus Areas
 
 
 •	Rebuild brand trust – Use transparency, customer engagement, and incentives to retain customers.
-![image](https://github.com/user-attachments/assets/33106377-6b53-4200-8ef3-09ef7cc5eb2e)
+
